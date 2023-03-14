@@ -10,7 +10,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = MusicAlert
 
-MusicAlert_FILES = Tweak.xm
+MusicAlert_FILES = Tweak.xm MusicAlertContainerView.m
 MusicAlert_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk

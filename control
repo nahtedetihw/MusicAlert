@@ -1,6 +1,6 @@
 Package: com.nahtedetihw.musicalert
 Name: MusicAlert
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Apple Music queue/loved alerts like on iOS 16.4!
 Maintainer: Ethan Whited
