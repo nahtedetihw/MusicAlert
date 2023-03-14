@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/rGWkY0Z/Music-Alert-Havoc-Banner.png">
+<img src="https://i.ibb.co/rGWkY0Z/Music-Alert-Havoc-Banner.png" alt="Music Alert Banner" style="width:1280px;height:720px;">
 
 # MusicAlert
 ## Apple Music queue/loved alerts like on iOS 16.4!
